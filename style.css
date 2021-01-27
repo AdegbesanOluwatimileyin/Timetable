@@ -1,0 +1,80 @@
+@font-face {
+    font-family: Viga;
+	src: url('file:///C:/Users/Hp/Downloads/Viga-Regular.ttf') format("truetype");
+  } 
+  .blue-text {
+    color: blue;
+	font-weight: bold;
+	font-family: Viga;
+  }
+  .red-text {
+    color: red;
+	font-weight: bold;
+	font-family: Viga;
+  }
+  .orange-text {
+    color: orange;
+	font-weight: bold;
+	font-family: Viga;
+  }
+  .purple-text {
+    color: purple;
+	font-weight: bold;
+	font-family: Viga;
+  }
+  .green-text {
+    color: green;
+	font-weight: bold;
+	font-family: Viga;
+  }
+  table {
+	border-style: solid;
+	border-color: #000000;
+	border-width: 1px;
+  }
+  .logo {
+    width: 25%;
+	height: 30%;
+    margin-left: 37.5%;
+	margin-right: 70%
+	margin-bottom: auto;
+	margin-top: 30px;
+  }
+  .body {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-top: 20px;
+  }  
+  
+  tr {
+    border-bottom: 5px;
+	margin-bottom: 20px;
+  }
+  th, td {
+    border: 1px solid #000000;
+	margin: 5px;
+	padding: 5px;
+	text-align: center;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  .center {
+    margin-left: auto;
+	margin-right: auto;
+  }
+  div.lunch {
+    margin-left: auto;
+	margin-right: auto;
+	word-wrap: break-word;
+	width: 11px;
+  }
+  .font {
+    font-family: Viga;
+  }
+  .font2 {
+    font-family: Viga;
+	font-stretch: ultra-expanded;
+  }
